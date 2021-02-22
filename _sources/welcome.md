@@ -1,5 +1,8 @@
 # Welcome to the FAcct21 Guide
 
-[Registration]
 
-[Conference Site]
+[Registration](https://facctconference.org/2021/registration.html)
+
+
+
+<!-- [Conference Site]() -->
