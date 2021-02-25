@@ -16,5 +16,8 @@ We do want to not that in other ways online conferences are more accessible, so 
 You may visit the [conference hub](https://2021.facctconference.org/) and use the `Support` link on the left. 
 ```
 
-```{dropdown}
+```{dropdown} What is my login information for circle.so?
+
+You should log into the [conference hub](https://2021.facctconference.org/) and select community. It is the same as your conference hub credentials. 
+
 ```
