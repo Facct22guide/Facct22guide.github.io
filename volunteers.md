@@ -48,17 +48,26 @@ Although it’s crucial that you engage, try not to dominate every conversation.
 
 **A:** The Doctoral Colloquium (DC) volunteer will manage Host responsibilities for the Zoom Meeting, send the groups into breakout sessions at specific times, and call attendees back from breakouts. The Volunteer should have familiarity with Zoom host tools and support the DC chairs if technical issues arise.
 
-**Q. What does a Tutorial/CRAFT session volunteer do?**
+**Q. What does a Tutorial session volunteer do?**
 
-**A:** CRAFT sessions are interactive and may require facilitation support in small group breakouts. CRAFT volunteers will also review CRAFT Circle spaces and let the organisers know if there are open questions that they should address in the session. Most tutorial sessions have question and answer sections. Volunteers will help Tutorial presenters gather questions and pull other relevant conversations from Circle Spaces.
+**A:** Most tutorial sessions have question and answer sections.  Volunteers will help Tutorial presenters gather questions and pull other relevant conversations from Circle Spaces and sli.do. They might also support tutorial organizers in Zoom related tasks. 
+
+**Q. What does a CRAFT session volunteer do?**
+
+**A:** CRAFT sessions are interactive and may require facilitation support in small group breakouts. CRAFT volunteers will also review CRAFT Circle spaces and let the organisers know if there are open questions that they should address in the session. 
 
 **Q. What does a paper session volunteer do?**
 
-**A:** Paper session volunteers will work with Session Chairs to pull in questions from attendees via Sli.do, our Q&A and polling tool. Paper session chairs will also review specific Circle spaces to see if any conversations or topics should also be included in the question and answer session. Volunteers will not need to address any Zoom-related technical issues or requests. 
+**A:** Paper session volunteers will work with Session Chairs to pull in questions from attendees via Sli.do, our Q&A and polling tool. Volunteers will also assist Paper session chairs to review specific Circle spaces prior to the session to see if any conversations or topics should also be included in the question and answer session. Volunteers will not need to address any Zoom-related technical issues or requests. 
 
 **Q. What does a keynote/thematic panel volunteer do?**
 
 **A:** Keynotes and Thematic Panels are moderated and require little support, but we figured it would make sense to have a volunteer available in case we needed their help with something on-the-fly.
+
+
+**Q. What does a community buiding/ambassador volunteer do?**
+
+**A:** Ambassadors will be present on Circle.io during the conference, commenting and engaging the attendees, sharing resources, and answering any questions that might come up.
 
 ## Circle.so Basics
 
