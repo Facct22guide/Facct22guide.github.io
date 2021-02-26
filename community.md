@@ -7,7 +7,7 @@ Please review the following community agreements before joining the conference. 
 - __A safe and inclusive conference space is our priority.__
   - Participants must abide by ACM's Policy Against Harassment at ACM Activities and the ACM Code of Ethics and Professional Conduct and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee.  
   - If you are involved in or witness any such incident, please submit a complaint to the conference organizers and the members of the Safety and Inclusion team will review the case. 
-- __Respect fellow participants and scholars.__ Refrain‭ ‬from‭ ‬demeaning,‭ ‬discriminatory,‭ ‬or‭ ‬harassing‭ ‬behavior‭ ‬and‭ ‬speech;‬‬‬‬‬‬‬‬‬‬‬‬‬‬.
+- __Respect fellow participants and scholars.__ Refrain‭ ‬from‭ ‬demeaning,‭ ‬discriminatory,‭ ‬or‭ ‬harassing‭ ‬behavior‭ ‬and‭ ‬speech‬‬‬‬‬‬‬‬‬‬‬.
 
 - __Practice explicit affirmative verbal consent.__ Do not record or screenshot any session without notification and consent.
 
@@ -29,5 +29,4 @@ If you are involved in or witness harassment or behavior that deviates from thes
   - Regarding registration or conference access, please email facctregistration@executivevents.com.
   - Regarding accessibility and inclusion, please email inclusion@facctconference.org
   - With general questions or concerns, please email general-chairs@facctconference.org
-
 
