@@ -1,4 +1,4 @@
-# Welcome authors
+# Authors
 
 Congratulations on your accepted FAccT paper!
 
