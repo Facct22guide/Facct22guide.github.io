@@ -47,7 +47,7 @@ Some tips to get the most out of FAccT:
 
 ## Conference Agenda
 
-Please note that all conference times on the portal are in **Coordinated Standard Time (UTC +0)**. You will be able to add events to your own calendar to convert to your local time.
+Please note that all conference times on the hub should show in your local time. Additionally, you will be able to add events to your own calendar to convert to your local time.
 
 ## Diversity, Equity and Inclusion Initiative
 
