@@ -35,9 +35,44 @@ Some tips to get the most out of FAccT:
 
 Please note that all conference times on the hub should show in your local time. Additionally, you will be able to add events to your own calendar to convert to your local time.
 
+## Communicating with other attendees during the conference
+
+Given the stress of the past year and virtual nature of FAccT 2021, it’s especially important to reflect on your state of mind as you arrive at the conference, and how you communicate with other attendees over the course of the 10 days.
+
+Upon entering a Zoom meeting, we ask that you:
+1. **Add your personal pronouns to your display name** (if desired and comfortable)
+2. **Use the attendees display name** to refer to them, and the pronouns they share (if applicable).
+3. **Do not record or screenshot any interactive session** without notification or consent.
+4. **Mute yourself** when you are not speaking.
+5. **Respect any additional guidelines** outlined at the beginning of the CRAFT or Tutorial session you attend.
+ 
+When joining our Community discussion boards, we ask that you:
+1. **Update your profile.** Please use the same name you gave during registration, for security reasons. Add your personal pronouns to your profile, if you feel comfortable with this.
+2. **Introduce yourself** in our Factually Inaccurate Cafe space.
+3. **Respectfully communicate with other attendees** via Direct Message on Circle. Stop messaging someone if they ask you to. Consent is critical.
+
+For more guidance on this topic, please review our [community guidelines](https://facct21guide.github.io/community.html).
+
+## Accessibility
+
+### Captioning
+We are in the process of preparing live captioning for Keynote and Panel sessions. Stay tuned for more information.
+
+### Language
+The conference will be presented in English. Please be aware that English is not everyone’s first language. Come prepared to provide definitions and breakdown jargon you may use, when asked.
+
+### Security
+We have taken many steps to ensure the security and safety of attendees. Here are some of the systems in place:
+
+* Only registered attendees can send questions and interact with other attendees within the hub. All activity is tied to a single user identity. If there are any verified breaches of the Code of Conduct, the user will not be allowed to access or participate in the conference. For more information, please review the [community guidelines](https://facct21guide.github.io/community.html) and [Policy Against Harassment](https://facct21guide.github.io/conduct.html).
+* Chosen organisers will be scanning submitted questions and discussion boards for any content that is considered inappropriate, and will be available during the sessions to address issues when they arise.
+* Only vetted and required attendees will have participant access to Zoom. All other attendees will be able to access the session via the livestream stages.
+* Only approved questions will be shown to attendees during live Q&A sessions.
+* Moderators and Zoom hosts will be encouraged to mute or remove participants who do not abide by the agreed guidelines.
+
 ## Diversity, Equity and Inclusion Initiative
 
-The FAccT 2021 Diversity, Equity and Inclusion webpage will go live on February 26th, in the meantime, please direct open questions to DEI Chairs to inclusion@facctconference.org.
+For current information regarding FAccT 2021 Diversity, Equity and Inclusion please visit the [DEI webpage](https://facctconference.org/2021/inclusion.html).
 
 ## Getting Support Navigating FAccT
 
