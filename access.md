@@ -11,7 +11,7 @@ The key features of this year’s event: 
 
 **Community discussion boards** to interact with attendees outside of sessions via an embedded Circle.so integration. __[Discuss papers, share reading recommendations and more.](https://2021.facctconference.org/library)__
 
-**Live Q&A sessions** will be facilitated via Sli.do for Keynotes, Panels, Tutorials, and Paper sessions. All sessions will have access to Sli.do except for sessions that are not live streamed, such as CRAFT. These sessions will have limited capacity, so we encourage you to [plan in advance if you wish to participate](https://forms.gle/GVQPEfpXDdmyKA517). __[Watch the live streams and participate in the Q&A on the conference hub.](https://2021.facctconference.org/)__
+**Live Q&A sessions** will be facilitated via Sli.do for Keynotes, Panels, Tutorials, and Paper sessions. All sessions will have access to Sli.do except for sessions that are not live streamed, such as CRAFT. These sessions will have limited capacity, so we encourage you to [plan in advance if you wish to participate](https://forms.gle/GVQPEfpXDdmyKA517). __[Watch the live streams and participate in the Q&A on the conference hub.](https://2021.facctconference.org/)__ You do **not** need to register for a Sli.do account ahead of time in order to access the Q&A that is integrated into the conference hub.
 
 Most sessions will be live streamed into three streams on the hub. Some sessions, however, are more interactive and require participants to join the Zoom call. In this case, we ask that you [download the Zoom desktop application](https://zoom.us/download) ahead of time.
 
