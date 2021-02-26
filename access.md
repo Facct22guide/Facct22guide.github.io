@@ -59,7 +59,27 @@ For more guidance on this topic, please review our [community guidelines](https:
 We are in the process of preparing live captioning for Keynote and Panel sessions. Stay tuned for more information.
 
 ### Language
-The conference will be presented in English. Please be aware that English is not everyone’s first language. Come prepared to provide definitions and breakdown jargon you may use, when asked.
+The conference will be presented in English. Please be aware that English is not everyone’s first language. Come prepared to provide definitions and breakdown jargon and regional idioms you may use, when asked.
+
+## Focus on accessibility in the FAccT Conference Hub.
+
+Accessibility goes beyond, font size, contrast, and assets. It is about useability for everyone. That is why we designed the FAccT Conference Hub to be as easy and painless to use as possible. On top of being at a success rating of AA or higher according to the Web Content Accessibility Guidelines. 
+
+We asked ourselves is the Hub:
+- _Perceivable:_ Can I consume content on my site in different ways? 
+- _Operable:_ Can the site function without confusion and without the use of a mouse or complex interactions?
+- _Understandable:_ Can a user understand how the user interface of the site functions and the information on the site?
+- _Robust:_ Can different assistive devices understand the website?
+
+Other accessibility features:
+- Font Size
+- AA-AAA Color Contrast 
+- Clear Hierarchy
+- Alt text 
+- ARIA Labels
+- Clear Focus States
+- Helpful Error States
+S- imple Gestures and Meaningful interactions
 
 ### Security
 We have taken many steps to ensure the security and safety of attendees. Here are some of the systems in place:
