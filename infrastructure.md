@@ -16,10 +16,6 @@ If you don't want other attendees to be able to direct message you, please chang
 
 ![Circle screenshot](/img/circle-profile-dm-5.png)
 
-
-#### Cafe Space
-![Circle screenshot](/img/circle-cafespace-1.png)
-
 #### Making a Post
 ![Circle screenshot](/img/circle-cafespace-post-2.png)
 
