@@ -48,7 +48,7 @@ Upon entering a Zoom meeting, we ask that you:
  
 When joining our Community discussion boards, we ask that you:
 1. **Update your profile.** Please use the same name you gave during registration, for security reasons. Add your personal pronouns to your profile, if you feel comfortable with this.
-2. **Introduce yourself** in our Factually Inaccurate Cafe space.
+2. **Introduce yourself** in our Hallway conversations space.
 3. **Respectfully communicate with other attendees** via Direct Message on Circle. Stop messaging someone if they ask you to. Consent is critical.
 
 For more guidance on this topic, please review our [community guidelines](https://facct21guide.github.io/community.html).
