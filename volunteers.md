@@ -98,4 +98,4 @@ Login and access is tied to your registration so there is no need to sign up wit
 * Where in the world: Where you are from and where you are accessing the virtual conference?
 * Collective Reading List: What have you been reading? What papers, reports, or articles have been helpful in guiding your work? This is a place to collectively build a reading list or syllabus.
 * Jargon Central: What does that word mean? What does that acronym stand for? How can we think about the language we use during the conference? This is a space to identify Jargon, ask for help or break down terminology with other attendees.
-* Factually Inaccurate Cafe: A social space for all attendees to get to know each other.
+* Hallway conversations: A social space for all attendees to get to know each other.
