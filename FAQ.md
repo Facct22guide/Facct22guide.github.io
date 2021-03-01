@@ -1,5 +1,19 @@
 # FAQ
 
+```{dropdown} What software do I need for the conference?
+
+You will only need a web browser for the majority of the conference. We recommend Chrome, though our conference hub works on Firefox, Safari, and Microsoft Edge as well.
+
+For a few of the more interactive sessions during the conference (such as the Doctoral Colloquium), you will also need access to Zoom. Be sure to [download the Zoom desktop application](https://zoom.us/download) ahead of time.
+```
+
+```{dropdown} What accounts do I need to create to access the conference?
+
+After registering for the conference, your conference hub and circle.so accounts will automatically be created for you. You will receive your login credentials via email and do not need to create any additional accounts to access the conference.
+
+The only exception is for interactive sessions (such as the Doctoral Colloquium) where Zoom will be used. For these sessions, you will know ahead of time whether you need Zoom access, and you will need a Zoom account to access them (a free account is fine).
+```
+
 
 ```{dropdown} Why is the conference not using Gather?
 
