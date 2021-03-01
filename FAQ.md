@@ -11,13 +11,15 @@ We do want to acknowledge that in other ways online conferences are more accessi
 ```
 
 
-```{dropdown} I can't log in to the conference site, who should I contact?
+```{dropdown} I can't sign in to the conference hub, who should I contact?
 
-You may visit the [conference hub](https://2021.facctconference.org/) and use the `Support` link on the left. 
+If you recently registered (in the last few hours or so), your account may not have been created on the conference hub just yet. New accounts are created periodically, and you will receive an email with your login credentials once your account has been created on the hub website.
+
+If you have not received an email after a few hours, you can contact registration support by sending them an email at facctregistration@executivevents.com. They will be able to help add you to the system and manually send you your login credentials.
 ```
 
 ```{dropdown} What is my login information for circle.so?
 
-You should log into the [conference hub](https://2021.facctconference.org/) and select community. It is the same as your conference hub credentials. 
+You should log into the [conference hub](https://2021.facctconference.org/) and select community. It is the same as your conference hub credentials.
 
 ```
