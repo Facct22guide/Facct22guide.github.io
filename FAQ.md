@@ -29,7 +29,9 @@ We do want to acknowledge that in other ways online conferences are more accessi
 
 If you recently registered (in the last few hours or so), your account may not have been created on the conference hub just yet. New accounts are created periodically, and you will receive an email with your login credentials once your account has been created on the hub website.
 
-If you have not received an email after a few hours, you can contact registration support by sending them an email at facctregistration@executivevents.com. They will be able to help add you to the system and manually send you your login credentials.
+If you have not received an email after a few hours, you can contact registration support by sending them an email at facctregistration@executivevents.com. They will be able to help add you to the system and manually send you your login credentials. 
+
+You may also visit the [conference hub](https://2021.facctconference.org/) and use the `Support` link on the left. 
 ```
 
 ```{dropdown} What is my login information for circle.so?
