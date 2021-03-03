@@ -9,9 +9,9 @@ of the things that we have planned.  We hope that the conference site is easy to
 navigate but know that there are somethings that are best with some extra guidelines.
 
 This handbook also includes information about the processes for session chairs,
-authors, and volunteers.  
+authors, and volunteers.
 
-Further, we've released this as CC0 so it is free for others to use.
+Further, we've released this as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) so it is free for others to use.
 
 
 Sincerely,
