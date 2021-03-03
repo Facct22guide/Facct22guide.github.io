@@ -39,3 +39,12 @@ You may also visit the [conference hub](https://2021.facctconference.org/) and u
 You should log into the [conference hub](https://2021.facctconference.org/) and select community. It is the same as your conference hub credentials.
 
 ```
+
+```{dropdown} Can I attend more CRAFT Sessions? Why did I not get access information to all of the CRAFT I was interested in?
+
+CRAFT are designed to be highyly interactive spaces for disucsison.  In order for this to work, most have a limited capacity.  
+
+We received an enthusiastic response to CRAFT: 375 individuals with over 800 first choice selections across the 4 sessions submitted the form by deadline. At that point in time, we had only 270 spots across the four sessions, with only 2 CRAFT with unlimited capacity.  The General chairs, Virtual Experience chairs, CRAFT chairs worked with the CRAFT coordinators to increase capacity of most sessions, for a total of 480 spots. We recruited additional FAccT volunteers and addtional external session facilittors and restructured sessions to acheive this. 
+
+Everyone who submitted the form by the deadline was accepted to at least one CRAFT, with 94% of people who submitted the form by the deadline assigned to their first choice for at least one session. Unfortunately not everyone was accepted to multiple sessions. 
+```
