@@ -56,7 +56,18 @@ For more guidance on this topic, please review our [community guidelines](https:
 ## Accessibility
 
 ### Captioning
-We are in the process of preparing live captioning for Keynote and Panel sessions. Stay tuned for more information.
+
+All pre-recorded research presentations and keynotes have captions. To view the captions, please turn "on" the subtitles option in the media player.
+
+All Plenary live content (including the Keynote Q+As and the Panels) will be captioned by a [captioning service](https://whitecoatcaptioning.com/) of human transcriptionists. 
+
+Those parts of the conference that are interactive and live pose a bit more of a challenge:
+
+-- Captions for Tutorials tomorrow will not appear in the live stream on the conference hub, but will be recorded and made available on Monday with captions. 
+-- CRAFT sessions will be held in Zoom, and it is our understanding that individuals who join Zoom are able to "turn on" the captioning for themselves.
+-- Captions for Live Q+As following paper presentations will not appear in the live stream on the conference hub, but will be recorded and made available the following day with captions. 
+
+We realize that the process for tutorials and live paper q+a is not ideal. Please let us know if there are Tutorials or Q+A sessions that you were planning to attend, and we can work with you to figure a zoom-supported option.
 
 ### Language
 The conference will be presented in English. Please be aware that English is not everyone’s first language. Come prepared to provide definitions and breakdown jargon and regional idioms you may use, when asked.
