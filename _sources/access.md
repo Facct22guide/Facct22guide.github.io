@@ -63,16 +63,16 @@ All Plenary live content (including the Keynote Q+As and the Panels) will be cap
 
 Those parts of the conference that are interactive and live pose a bit more of a challenge:
 
--- Captions for Tutorials tomorrow will not appear in the live stream on the conference hub, but will be recorded and made available on Monday with captions. 
--- CRAFT sessions will be held in Zoom, and it is our understanding that individuals who join Zoom are able to "turn on" the captioning for themselves.
--- Captions for Live Q+As following paper presentations will not appear in the live stream on the conference hub, but will be recorded and made available the following day with captions. 
+* Captions for Tutorials tomorrow will not appear in the live stream on the conference hub, but will be recorded and made available on Monday with captions. 
+* CRAFT sessions will be held in Zoom, and it is our understanding that individuals who join Zoom are able to "turn on" the captioning for themselves.
+* Captions for Live Q+As following paper presentations will not appear in the live stream on the conference hub, but will be recorded and made available the following day with captions. 
 
 We realize that the process for tutorials and live paper q+a is not ideal. Please let us know if there are Tutorials or Q+A sessions that you were planning to attend, and we can work with you to figure a zoom-supported option.
 
 ### Language
 The conference will be presented in English. Please be aware that English is not everyone’s first language. Come prepared to provide definitions and breakdown jargon and regional idioms you may use, when asked.
 
-## Focus on accessibility in the FAccT Conference Hub.
+## Accessibility in FAccT Conference Hub Design
 
 Accessibility goes beyond, font size, contrast, and assets. It is about useability for everyone. That is why we designed the FAccT Conference Hub to be as easy and painless to use as possible. On top of being at a success rating of AA or higher according to the Web Content Accessibility Guidelines. 
 
