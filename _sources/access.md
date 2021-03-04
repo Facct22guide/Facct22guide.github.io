@@ -55,6 +55,23 @@ For more guidance on this topic, please review our [community guidelines](https:
 
 ## Accessibility
 
+### Timezones
+
+Timezone equity is a priority for our team, and we planned an extended conference day (12 hours) to take different schedules into account. We recognize that the current schedule is especially difficult for those based in Asia. 
+
+Below are some of the steps we've taken to make this content available for those who are not able to join the livestream and to create opportunities for asynchronous engagement.
+
+All pre-recorded research presentations are available on the [conference hub](https://2021.facctconference.org/) to view at any time. 
+
+Q+A sessions for papers will be livestreamed, but will be recorded and posted to the conference hub later in the day. We are also encouraging participants to ask questions and engage around papers in [Circle.so](https://facct.circle.so/c/paper-sessions), which can be used to ask questions asynchronously. Moderators for each session will be monitoring the Circle spaces to include these questions in the live Q+A.
+
+Plenary keynotes and panels will also be livestreamed and recorded, and they will be posted to the conference hub later in the day.
+
+Tutorials (which take place tomorrow, March 4), will be livestreamed and recorded, and they will be posted to the conference hub on Monday. There are also tutorial spaces in [Circle.so](https://facct.circle.so/c/tutorials) where questions can be asked asynchronously.
+
+CRAFT (which takes place on Friday) will only be live-streamed and not recorded. CRAFT organizers wanted to encourage a participatory environment and chose not to record the sessions.
+ 
+
 ### Captioning
 
 All pre-recorded research presentations and keynotes have captions. To view the captions, please turn "on" the subtitles option in the media player.
