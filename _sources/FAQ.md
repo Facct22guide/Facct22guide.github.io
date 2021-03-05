@@ -1,5 +1,18 @@
 # FAQ
 
+```{dropdown} How Can I view videos in advance?
+
+The [library](https://2021.facctconference.org/library) on the hub has all papers listed an a topic-wise filterable and sortable interface. 
+
+Each session also has a page, accessible from the [agenda](https://2021.facctconference.org/agenda) or [dashboard](https://2021.facctconference.org/).  The session pages list all abstracts and link to the paper pages. 
+```
+
+```{dropdown} How can I view the schedule in my local timezone?
+
+The [dashboard](https://2021.facctconference.org/) is in UTC+0, and the [agenda](https://2021.facctconference.org/agenda) should be in your local time zone.
+```
+
+
 ```{dropdown} What software do I need for the conference?
 
 You will only need a web browser for the majority of the conference. We recommend Chrome, though our conference hub works on Firefox, Safari, and Microsoft Edge as well.
