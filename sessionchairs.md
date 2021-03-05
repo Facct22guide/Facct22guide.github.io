@@ -9,6 +9,16 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 * **Review pre-submitted questions on Sli.do related to the specific papers.** For more information on how to do that, reach out to Morgan Bartlett from the Executive Events organising team.
 * **Share the relevant pre-submitted questions with the presenters ahead of time** so they can prepare answers earlier.
 * **Check out how to use Sli.do if you'd like** Sli.do provides [several videos that explain how to use the service](https://www.sli.do/videos)
+* Let your assigned volunteer and authors know how you'd like to work together. Some key decisions to make 
+  * who will accept/reject the questions in slido? 
+  * will you monitor the zoom chat? Circle chat?
+  * who will mark questions answered?
+
+
+## Right beefore going live
+
+* discuss beforehand with everyone (including tech support) which kinds of questions you want to answer privately (e.g. tech issues) 
+* **Turn on Sli.do moderation as a safety guard** to control waht participants can see
 
 ## During the live Q&A
 
@@ -26,7 +36,7 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 
 ### Pulling from audience questions via Sli.do
 
-* **Turn on moderation as a safety guard** to control waht participants can see
+
 * **Participants can upvote questions** use this information at your discretion, but it can be helpful when there are a lot of questions. 
 * **You don’t need to read each question verbatim.** In some cases attendees may ask multiple versions of the same question. Combine relevant and similar questions into one question, while still ensuring it’s simple enough to answer.
 * **Ask audience questions if whatever order you feel makes sense.** Omit questions when necessary.
