@@ -16,6 +16,7 @@ Welcome Volunteers! Below are some helpful guidelines and expectations for volun
 ## Volunteer to Volunteer tips:
 
 Volunteers from the first few sessions have shared the following tips:
+* For interactive sessions, test the note-taking link provided by the presenters, (for example, padlet, google docs, etc) before the start of the sessions to make sure that they are editable.
 
 
 
