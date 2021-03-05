@@ -1,14 +1,16 @@
 # FAQ
 
-```{dropdown} How long will I have access to the conference content
 
-Registered participants will have access to the hub for ninety (90) days. 
 
-Content will also be archived by ACM, but this will occur in different ways for different componets of the conference program. 
+```{dropdown} How long will I have access to the conference content?
+
+Registered participants will have access to the conference hub, with all content, and the circle.so community for ninety (90) days. 
+
+Content will also be archived to the conference website after that. 
 ```
 
 
-```{dropdown} How Can I view videos in advance?
+```{dropdown} How can I view videos in advance?
 
 The [library](https://2021.facctconference.org/library) on the hub has all papers listed an a topic-wise filterable and sortable interface. 
 
