@@ -13,6 +13,13 @@ Welcome Volunteers! Below are some helpful guidelines and expectations for volun
 * Zoom host help for DC
 
 
+## Volunteer to Volunteer tips:
+
+Volunteers from the first few sessions have shared the following tips:
+
+
+
+
 ## F.A.Q.
 
 ```{dropdown}  What will volunteers be responsible for?
