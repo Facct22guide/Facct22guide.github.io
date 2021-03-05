@@ -15,6 +15,11 @@ Welcome Volunteers! Below are some helpful guidelines and expectations for volun
 
 ## F.A.Q.
 
+```{dropdown} How do I start a volunteer or backup shift?
+Please check in on the volunteer slack channel approximately 20 minutes before your shift so that we know you're ready. If you're assigned you should join the zoom shortly after that. 
+If we only hear from the backup and not the assigned volunteer, we'll direct the backup to jointhe session. 
+```
+
 ```{dropdown}  What will volunteers be responsible for?
 
 Volunteers are there to support the session chair and session presenters with technical and lightweight facilitation support. Volunteers should be comfortable with the conference hub, Zoom, Circle.so, our conference discussion boards, and Sli.do, our live Q&A and polling tool. The exact role will depend on the shift you choose and what the organisers need.
@@ -22,7 +27,9 @@ Volunteers are there to support the session chair and session presenters with te
 
 ```{dropdown} How can I get trained to use the conference digital tools?
 
-Please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSelZuzv9ifSTMxqxa2rbIYW_oGPSd1I79o9J3raIppzR2RN2A/viewform) ASAP to find time for a tech rehearsal facilitated by our events team.
+Contact FAccTplanning@executiveevents.com to ask for the video recording of the tech rehearsal. 
+
+<!-- Please fill out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSelZuzv9ifSTMxqxa2rbIYW_oGPSd1I79o9J3raIppzR2RN2A/viewform) ASAP to find time for a tech rehearsal facilitated by our events team. -->
 ```
 
 ```{dropdown} Who should I contact if I need support during the conference?**
