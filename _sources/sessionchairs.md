@@ -12,6 +12,7 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 
 ## During the live Q&A
 
+
 ### Prompt a Panelist
 
 * When the question is for any of the presenters, **restate the question** and then direct the question to a panelist who:
@@ -21,10 +22,12 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 
 ### Distribute questions thoughtfully
 
-* **Keep track of who you’ve asked questions to as the panel progresses.** Make sure that there is an equitable distribution between the speakers.
+* **Keep track of who you’ve asked questions to as the panel progresses.** Make sure that there is an equitable distribution across authors from each paper. 
 
 ### Pulling from audience questions via Sli.do
 
+* **Turn on moderation as a safety guard** to control waht participants can see
+* **Participants can upvote questions** use this information at your discretion, but it can be helpful when there are a lot of questions. 
 * **You don’t need to read each question verbatim.** In some cases attendees may ask multiple versions of the same question. Combine relevant and similar questions into one question, while still ensuring it’s simple enough to answer.
 * **Ask audience questions if whatever order you feel makes sense.** Omit questions when necessary.
 
@@ -52,9 +55,9 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 
 ## Following the live Q&A
 
-### Direct attendees to other spaces to continue the conversation
+### Direct attendees to continue the conversation
 
-* **Make sure attendees know where to go after the Q&A discussion** if they have more questions or want to keep the conversation going. In this case, that would likely be on the discussion boards or contacting the speakers directly.
+* **Each session has a circle post** direct participants to continue the conversation there and remind authors they may join as well or share additional resources on that post. 
 
 ## Cited Resources
 * https://blog.sli.do/panel-discussion-moderating-guide/
