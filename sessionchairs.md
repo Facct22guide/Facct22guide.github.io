@@ -8,6 +8,7 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 * **Consider thematic and topical ties between presenters to help draw a throughline between the presentations.**
 * **Review pre-submitted questions on Sli.do related to the specific papers.** For more information on how to do that, reach out to Morgan Bartlett from the Executive Events organising team.
 * **Share the relevant pre-submitted questions with the presenters ahead of time** so they can prepare answers earlier.
+* **Check out how to use Sli.do if you'd like** Sli.do provides [several videos that explain how to use the service](https://www.sli.do/videos)
 
 ## During the live Q&A
 
