@@ -17,7 +17,9 @@ Welcome Volunteers! Below are some helpful guidelines and expectations for volun
 
 Volunteers from the first few sessions have shared the following tips:
 * For interactive sessions, test the note-taking link provided by the presenters, (for example, padlet, google docs, etc) before the start of the sessions to make sure that they are editable.
-
+*  Discuss before going live with everyone (including tech support) which kinds of questions you want to answer privately (e.g. tech issues)
+* Publish messages that are not questions(eg "thank yous", only at the end of the session to help attendees see questions so they can upvote them
+* Check that Sli.do moderation is on before the session starts for safety
 
 
 
