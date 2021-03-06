@@ -13,6 +13,20 @@ Welcome Volunteers! Below are some helpful guidelines and expectations for volun
 * Zoom host help for DC
 
 
+## Volunteer to Volunteer tips:
+
+Volunteers from the first few sessions have shared the following tips:
+* For interactive sessions, test the note-taking link provided by the presenters, (for example, padlet, google docs, etc) before the start of the sessions to make sure that they are editable.
+*  Discuss before going live with everyone (including tech support) which kinds of questions you want to answer privately (e.g. tech issues)
+* Publish messages that are not questions(eg "thank you"), only at the end of the session to help attendees see questions so they can upvote them
+* determine with your session chair who will accept/reject the questions in slido 
+* determine if your session chair wants to chat via zoom or circle if needed during the session 
+* determine with your moderator who will mark as read all the questions that have been answered already. 
+* Check that Sli.do moderation is on before the session starts for safety
+* Collect any shared links and post them to Circle, the  question will disappear when marked answered or at the end of the session
+
+
+
 ## F.A.Q.
 
 ```{dropdown} How do I start a volunteer or backup shift?
