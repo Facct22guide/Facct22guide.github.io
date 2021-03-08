@@ -1,5 +1,13 @@
 # FAQ
 
+
+```{dropdown} How can I interact with FAccT sponsors?
+
+In designing FAccT's virtual (and when possible, physical) spaces, our priority is the community and the content, and our relationships with our sponsors is focused on making that possible. We therefore do not have prominent visibility for sponsors (e.g. exhibit booths) that are a feature of many conferences. For details, see the [sponsorship policy](https://facctconference.org/2021/sponsorship_policy.html). We also recognize the need for balance to enable the FAccT community to connect with potential employers; this year we are navigating that with the Opportunity Board.
+```
+
+
+
 ```{dropdown} When will conference content be available to the public?
 
 Different components of the content will be made available at different time scales:
