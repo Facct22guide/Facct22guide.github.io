@@ -1,5 +1,15 @@
 # FAQ
 
+```{dropdown} When will conference content be available to the public?
+
+Different components of the content will be made available at different time scales:
+- Keynotes and panels will be streamed publicly in real time on [stream three](https://2021.facctconference.org/stream-three)
+- [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3442188) (full paper texts) are available open access on the ACM library. 
+- Paper talks and Tutorials: as in previous years, most videos will be posted publicly after the conference, videos will not be posted only for reasons of author nonconsent or technical issues. 
+- CRAFT: Organizers and CRAFT chairs are preparing reports, which will be released, but video recordings will not be released. These sessions were small, engaging discussions, and in order to facilitate free discussion, not all parts were recorded. Some were recorded to help organizers prepare reports, but concsent for public release was not obtained.  
+
+```
+
 
 
 ```{dropdown} How long will I have access to the conference content?
