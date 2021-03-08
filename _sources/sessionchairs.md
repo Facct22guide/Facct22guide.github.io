@@ -15,7 +15,7 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
   * who will mark questions answered?
 
 
-## Right beefore going live
+## Right before going live
 
 * discuss beforehand with everyone (including tech support) which kinds of questions you want to answer privately (e.g. tech issues) 
 * **Turn on Sli.do moderation as a safety guard** to control waht participants can see
