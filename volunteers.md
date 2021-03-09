@@ -29,12 +29,22 @@ Volunteers from the first few sessions have shared the following tips:
 
 ## F.A.Q.
 
-```{dropdown} How do I start a volunteer or backup shift?
+```{dropdown} How do I start a backup shift?
 For papers, please check in on the volunteer slack channel at the start of your paper session so that we know you're ready.
-Approximateky 20 mintues before the Q&A, join the zoom meeting and coordinate with the session chair, authors, & tech support in the green room. 
+
+If we only hear from the backup and not the assigned volunteer, at 10 minutes before the session goes live, we'll provide a zoom link for the backup volunteer to join the meeting.  
+When you first join the Zoom, you will be in the green room to coordinate with the session chair, authors, & tech support in the green room. 
 When it's time to go live, you'll get a new link to join the livestream. 
 
-If we only hear from the backup and not the assigned volunteer at 10 minutes before the sessin goes live, we'll direct the backup to join the meeting. 
+```
+
+
+```{dropdown} How do I start a volunteer shift?
+For papers, please check in on the volunteer slack channel at the start of your paper session so that we know you're ready.
+Approximately 20 mintues before the Q&A, join the green room with the provided zoom meeting and coordinate with the session chair, authors, & tech support in the green room. 
+When it's time to go live, you'll get a new link to join the livestream. 
+
+If we only hear from the backup and not the assigned volunteer at 10 minutes before the session goes live, we'll direct the backup to join the meeting. 
 
 For tutorials & CRAFT, please check in approximately 20 minutes before your shift, join Zoom at that time, and check in with session leaders. 
 ```
