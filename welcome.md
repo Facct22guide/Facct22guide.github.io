@@ -1,6 +1,6 @@
 # Welcome to the FAcct22 Guide
 
-Welcome to the FAccT 21 Conference Guide.  This handbook to the conference should
+Welcome to the FAccT 22 Conference Guide.  This handbook to the conference should
 help provide any additional information about how things are going to go. We have
 worked hard over the past several months to make a thoughtful equitable and
 engaging online experience for attendees at FAccT22 and one of the most important
@@ -25,7 +25,7 @@ Virtual Experience Consultant
 
 
 
-To get started, if you have not already, see the [Registration](https://facctconference.org/2021/registration.html) site to get access to the full conference experience.
+To get started, if you have not already, see the [Registration](https://facctconference.org/2022/registration.html) site to get access to the full conference experience.
 
 
 
