@@ -1,6 +1,6 @@
 # Volunteer Info
 
-Welcome Volunteers! Below are some helpful guidelines and expectations for volunteer support at FAccT 2021.
+Welcome Volunteers! Below are some helpful guidelines and expectations for volunteer support at FAccT 2022.
 
 ## Potential Roles
 
