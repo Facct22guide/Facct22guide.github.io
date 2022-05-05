@@ -1,6 +1,6 @@
 # FAccT 22 Guide
 
-[Click here for the live guide.](https://facct22guide.github.io)
+[Click here for the live guide.](https://facct22guide.github.io/welcome.html)
 
 This guide is a [jupyter book](https://jupyterbook.org/intro.html) and content can be added via pull request.
 
