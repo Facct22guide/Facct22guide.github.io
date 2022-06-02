@@ -1,8 +1,13 @@
 
+root: welcome
 format: jb-book
-root: index
-chapters:
-- file: background
-- file: prepare
-- file: access
-- file: infrastructure
+defaults:
+  numbered: true
+
+parts: 
+- caption: Hitchhiker's Guide to FAccT 2022
+  chapters:
+    - file: background
+    - file: prepare
+    - file: access
+    - file: infrastructure
