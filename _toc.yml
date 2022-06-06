@@ -5,8 +5,8 @@ parts:
   chapters:
   - file: background
   - file: prepare
-  - file: access
-  - file: infrastructure
+  - file: access22
+  - file: infrastructure22
 - caption: Community and Safety
   chapters:
   - file: community
@@ -16,7 +16,7 @@ parts:
   chapters:
   - file: authors
   - file: dc
-  - file: sessionchairs
+  - file: sessionchairs22
   - file: volunteers
 - caption: FAQ
   chapters:
