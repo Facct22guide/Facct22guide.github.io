@@ -1,7 +1,7 @@
 format: jb-book
 root: welcome
 parts:
-- caption: Hitchhiker's Guide to FAccT 2021
+- caption: Hitchhiker's Guide to FAccT 2022
   chapters:
   - file: background
   - file: prepare

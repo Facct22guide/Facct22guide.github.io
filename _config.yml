@@ -1,5 +1,5 @@
 # Book settings
-title: FAccT21 Conference Guide
+title: FAccT22 Conference Guide
 author: FAccT Virtual Experience Chairs
 logo: facct.png
 
@@ -10,7 +10,7 @@ latex:
 
 
 repository:
-  url                       : https://github.com/facct21guide/facct21guide.github.io  # The URL to your book's repository
+  url                       : https://github.com/facct22guide/facct22guide.github.io  # The URL to your book's repository
   path_to_book              : ""  # A path to your book's folder, relative to the repository root.
   branch                    : main
 
