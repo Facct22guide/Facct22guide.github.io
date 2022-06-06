@@ -1,0 +1,27 @@
+
+
+- file: welcome
+
+- part: Hitchhiker's Guide to FAccT 2021
+  chapters:
+    - file: background
+    - file: prepare
+    - file: access
+    - file: infrastructure
+
+- part: Community and Safety
+  chapters:
+    - file: community
+    - file: conduct
+    - file: wellbeing
+
+- part: Details by Role
+  chapters:
+    - file: authors
+    - file: dc
+    - file: sessionchairs
+    - file: volunteers
+
+- part: FAQ
+  chapters:
+    - file: FAQ
