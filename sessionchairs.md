@@ -1,24 +1,23 @@
 # Session Chair Information
 
-As Session Chairs you will be responsible for facilitating the live Q&A section of the session. Below are some recommendations for how to hold that role and what to do before, during and after the session.
+As Session Chairs, you will be responsible for facilitating the live Q&A section of the session. Below are some recommendations for how to hold that role and what to do before, during and after the session.
 
 ## Before the live Q&A
 * **Watch the pre-recorded presentations for your session panel ahead of time** so you are more familiar with the content.
 * **Have more questions drafted for the presenters than you need.** Try to sprinkle equal amounts of questions geared to each one. That way you’ll be sure to give each panelist an equitable chance to speak.
 * **Consider thematic and topical ties between presenters to help draw a throughline between the presentations.**
-* **Review pre-submitted questions on Sli.do related to the specific papers.** For more information on how to do that, reach out to Morgan Bartlett from the Executive Events organising team.
+* **Review pre-submitted questions at each paper's booth on Hopin.** 
+![Hopin screenshot](img/hopin_questions_at_booths.png)
+
 * **Share the relevant pre-submitted questions with the presenters ahead of time** so they can prepare answers earlier.
-* **Check out how to use Sli.do if you'd like** Sli.do provides [several videos that explain how to use the service](https://www.sli.do/videos)
 * **Let your assigned volunteer and authors know how you'd like to work together.** Some key decisions to make 
-  * who will accept/reject the questions in slido? 
-  * will you monitor the zoom chat? Circle chat?
+  * who will accept/reject the questions in Hopin? 
   * who will mark questions answered?
 
 
 ## Right before going live
 
 * discuss beforehand with everyone (including tech support) which kinds of questions you want to answer privately (e.g. tech issues) 
-* **Turn on Sli.do moderation as a safety guard** to control waht participants can see
 
 ## During the live Q&A
 
@@ -34,7 +33,7 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 
 * **Keep track of who you’ve asked questions to as the panel progresses.** Make sure that there is an equitable distribution across authors from each paper. 
 
-### Pulling from audience questions via Sli.do
+### Pulling from audience questions via Hopin
 
 
 * **Participants can upvote questions** use this information at your discretion, but it can be helpful when there are a lot of questions. 
@@ -67,11 +66,4 @@ As Session Chairs you will be responsible for facilitating the live Q&A section 
 
 ### Direct attendees to continue the conversation
 
-* **Each session has a circle post** direct participants to continue the conversation there and remind authors they may join as well or share additional resources on that post. 
-
-## Cited Resources
-* https://blog.sli.do/panel-discussion-moderating-guide/
-* https://powerfulpanels.com/5-elements-panel-moderators-include-open-panel-discussion/
-* https://www.huffpost.com/entry/moderating-a-panel-8-ways_b_5242146 
-* https://ethos3.com/2018/07/facilitate-great-panel-discussion/
-
+* **Each paper has a booth** direct participants to continue the conversation there and remind authors they may join as well or share additional resources on chats or Q&A. 

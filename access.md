@@ -2,27 +2,32 @@
 # Accessing the Conference
 
 **QUICK LINKS**
-* [Conference Hub](https://2021.facctconference.org/)
-* [Discussion Board](https://facct.circle.so/)
+* [Hopin](https://hopin.com/events/acm-facct-22)
 
-The key features of this year’s event: 
+Hopin is an integrated platform for watching pre-recorded talks, leaving questions, interacting with other attendees, and more.  
+The key features of this year’s event on Hopin are: 
 
-**Pre-recorded talks** for research presentations are available for viewing anytime after February 25. __[Explore the archive of pre-recorded talks.](https://2021.facctconference.org/library)__
+**Pre-recorded talks:** You can watch pre-recorded research presentations  anytime after June 14. 
 
-**Community discussion boards** to interact with attendees outside of sessions via an embedded Circle.so integration. __[Discuss papers, share reading recommendations and more.](https://2021.facctconference.org/library)__
+**Interaction with other attendees:** You can interact with other attendees outside of sessions through the "People" menu at the sidebar. 
+![Hopin screenshot](img/hopin_people.png)
 
-**Live Q&A sessions** will be facilitated via Sli.do for Keynotes, Panels, Tutorials, and Paper sessions. All sessions will have access to Sli.do except for sessions that are not live streamed, such as CRAFT. These sessions will have limited capacity, so we encourage you to [plan in advance if you wish to participate](https://forms.gle/GVQPEfpXDdmyKA517). __[Watch the live streams and participate in the Q&A on the conference hub.](https://2021.facctconference.org/)__ You do **not** need to register for a Sli.do account ahead of time in order to access the Q&A that is integrated into the conference hub.
+**Questions for talks:** You can leave questions under the "Q&A" menu for each paper's "booth" in advance. Session chairs will ask some of the questions from the booth or authors will answer your questions as a reply to your question under the "Q&A" menu. [Watch the live streams and participate in the Q&A on Hopin.](https://hopin.com/events/acm-facct-22)
+![Hopin screenshot](img/hopin_questions_at_booths.png)
 
-Most sessions will be live streamed into three streams on the hub. Some sessions, however, are more interactive and require participants to join the Zoom call. In this case, we ask that you [download the Zoom desktop application](https://zoom.us/download) ahead of time.
+**Program schedule** will be available under the "Reception" menu. You can add programs that you want to attend to your Agenda (i.e., favorites) or directly to your Calendar for managing them easily. 
+![Hopin screenshot](img/hopin_schedule.png)
+![Hopin screenshot](img/hopin_calendar.png)
 
-Access to live sessions will become available on the scheduled day of the session on our conference live stages. We recommend that you log in a few minutes early since all sessions plan to run on time.
+Access to live sessions will become available on the scheduled day of the session under the "Stage" menu. We recommend that you log in a few minutes early since all sessions plan to run on time.
+![Hopin screenshot](img/hopin_stage.png)
+
 
 Some tips to get the most out of FAccT:
 
-1. **If you are unsure you can attend the sessions live, watch the pre-recorded research paper content in advance of the live Q&A sessions.** All attendees have access to the hub where they can watch pre-recorded Paper sessions and submit questions before the session starts. Watch the presentations whenever it is best for you!
+1. **If you are unsure you can attend the sessions live, watch the pre-recorded research paper content in advance of the live Q&A sessions.** All attendees have access to Hopin where they can watch pre-recorded Paper sessions and submit questions before the session starts. Watch the presentations whenever it is best for you!
 2. **Ask a question to an author on the paper’s page before the live Q&A.** Your question will be sent to the session chair so they can prepare for the Q&A.  This will help the authors accommodate any questions raised by attendees who watched the content prior to the start of the conference or are unable to attend live.
-3. **Engage on the Community discussion boards, and discuss with the authors and other attendees about the sessions you have watched.** Authors will be instructed specifically to begin monitoring their session boards throughout the event.
-4. **Attend the livestream Q&A sessions to engage with the presenters in-person.** Upvote submitted questions and watch as the presenters respond in real time.
+3. **Visit booths, and discuss with the authors and other attendees about the study you are interested in.** Authors will be instructed specifically to begin monitoring their booths throughout the event. 
 
 ## What you need to Attend
 
@@ -33,52 +38,44 @@ Some tips to get the most out of FAccT:
 
 ## Conference Agenda
 
-Please note that all conference times on the hub should show in your local time. Additionally, you will be able to add events to your own calendar to convert to your local time.
+Please note that all conference times on Hopin should show in your local time. Additionally, you will be able to add events to your own calendar.
 
 ## Communicating with other attendees during the conference
 
-Given the stress of the past year and virtual nature of FAccT 2021, it’s especially important to reflect on your state of mind as you arrive at the conference, and how you communicate with other attendees over the course of the 10 days.
-
-Upon entering a Zoom meeting, we ask that you:
-1. **Add your personal pronouns to your display name** (if desired and comfortable)
-2. **Use the attendees display name** to refer to them, and the pronouns they share (if applicable).
-3. **Do not record or screenshot any interactive session** without notification or consent.
-4. **Mute yourself** when you are not speaking.
-5. **Respect any additional guidelines** outlined at the beginning of the CRAFT or Tutorial session you attend.
+Given the stress of the past year and virtual nature of FAccT 2022, it’s especially important to reflect on your state of mind as you arrive at the conference, and how you communicate with other attendees over the course of the 14 days.
  
-When joining our Community discussion boards, we ask that you:
+When joining Hopin, we ask that you:
 1. **Update your profile.** Please use the same name you gave during registration, for security reasons. Add your personal pronouns to your profile, if you feel comfortable with this.
-2. **Introduce yourself** in our Hallway conversations space.
-3. **Respectfully communicate with other attendees** via Direct Message on Circle. Stop messaging someone if they ask you to. Consent is critical.
+2. **Introduce yourself** in under the "Chat" menu.
+3. **Respectfully communicate with other attendees** via Message/Chats on Hopin. Stop messaging someone if they ask you to. Consent is critical.
 
-For more guidance on this topic, please review our [community guidelines](https://facct21guide.github.io/community.html).
+For more guidance on this topic, please review our [community guidelines](https://facct22guide.github.io/community.html).
 
 ## Accessibility
 
 ### Timezones
 
-Timezone equity is a priority for our team, and we planned an extended conference day (12 hours) to take different schedules into account. We recognize that the current schedule is especially difficult for those based in Asia. 
+Below are some of the steps we've taken to make FAccT available for those who are not able to join the livestream and to create opportunities for asynchronous engagement.
 
-Below are some of the steps we've taken to make this content available for those who are not able to join the livestream and to create opportunities for asynchronous engagement.
+All pre-recorded research presentations are available on [Hopin](https://hopin.com/events/acm-facct-22) to view at any time. 
 
-All pre-recorded research presentations are available on the [conference hub](https://2021.facctconference.org/) to view at any time. 
+We are encouraging participants to ask questions and engage around papers in "booths" on Hopin, which can be used to ask questions asynchronously. Moderators for each session will be monitoring booths to include these questions in the live Q+A.
 
-Q+A sessions for papers will be livestreamed, but will be recorded and posted to the conference hub later in the day. We are also encouraging participants to ask questions and engage around papers in [Circle.so](https://facct.circle.so/c/paper-sessions), which can be used to ask questions asynchronously. Moderators for each session will be monitoring the Circle spaces to include these questions in the live Q+A.
+Plenary keynotes and panels will be livestreamed and recorded, and they will be posted to Hopin later in the day.
+<!-- 
+Tutorials will be livestreamed and recorded, and they will be posted to the conference hub on Monday. There are also tutorial spaces in [Circle.so](https://facct.circle.so/c/tutorials) where questions can be asked asynchronously.
 
-Plenary keynotes and panels will also be livestreamed and recorded, and they will be posted to the conference hub later in the day.
-
-Tutorials (which take place tomorrow, March 4), will be livestreamed and recorded, and they will be posted to the conference hub on Monday. There are also tutorial spaces in [Circle.so](https://facct.circle.so/c/tutorials) where questions can be asked asynchronously.
-
-CRAFT (which takes place on Friday) will only be live-streamed and not recorded. CRAFT organizers wanted to encourage a participatory environment and chose not to record the sessions.
+CRAFT (which takes place on Friday) will only be live-streamed and not recorded. CRAFT organizers wanted to encourage a participatory environment and chose not to record the sessions. -->
  
 
 ### Captioning
 
-All pre-recorded research presentations and keynotes have captions. To view the captions, please turn "on" the subtitles option in the media player.
+All pre-recorded research presentations and keynotes have captions. 
 
-All Plenary live content (including the Keynote Q+As and the Panels) will be captioned by a [captioning service](https://whitecoatcaptioning.com/) of human transcriptionists. 
+All Plenary live content (including the Keynote Q+As and the Panels) will be captioned by [SyncWords](https://www.syncwords.com/) of human transcriptionists. 
+![Hopin screenshot](img/hopin_syncwords.png)
 
-Those parts of the conference that are interactive and live pose a bit more of a challenge:
+<!-- Those parts of the conference that are interactive and live pose a bit more of a challenge:
 
 * Captions for Tutorials will not appear in the live stream on the conference hub, but will be recorded and made available in the recordings with captions. Attendees who require accomodation will be invited to Zoom in order to view them live. 
 * CRAFT sessions will be held in Zoom, and it is our understanding that individuals who join Zoom are able to "turn on" the captioning for themselves.
@@ -86,12 +83,12 @@ Those parts of the conference that are interactive and live pose a bit more of a
 
 We realize that the process for tutorials and live paper q+a is not ideal. Please let us know if there are Tutorials or Q+A sessions that you were planning to attend, and we can work with you to figure a zoom-supported option.
 
-Additionally, we want to recognize the variable, and systematic, errors in auto-transcription as provided by Zoom(tutorials), SlidesLive (paper prerecordings) and Youtube (posted recordings of live events).  These concerns were central to our choice to use a paid service for the keynotes and panels, but in order to balance costs, this was not feasible for all sessions.  Keeping costs low is another important dimension of accessibility for our community.
+Additionally, we want to recognize the variable, and systematic, errors in auto-transcription as provided by Zoom(tutorials), SlidesLive (paper prerecordings) and Youtube (posted recordings of live events).  These concerns were central to our choice to use a paid service for the keynotes and panels, but in order to balance costs, this was not feasible for all sessions.  Keeping costs low is another important dimension of accessibility for our community. -->
 
 ### Language
 The conference will be presented in English. Please be aware that English is not everyone’s first language. Come prepared to provide definitions and breakdown jargon and regional idioms you may use, when asked.
 
-## Accessibility in FAccT Conference Hub Design
+<!-- ## Accessibility in FAccT Conference Hub Design
 
 Accessibility goes beyond, font size, contrast, and assets. It is about useability for everyone. That is why we designed the FAccT Conference Hub to be as easy and painless to use as possible. On top of being at a success rating of AA or higher according to the Web Content Accessibility Guidelines. 
 
@@ -109,20 +106,18 @@ Other accessibility features:
 - ARIA Labels
 - Clear Focus States
 - Helpful Error States
-S- imple Gestures and Meaningful interactions
+S- imple Gestures and Meaningful interactions -->
 
 ### Security
 We have taken many steps to ensure the security and safety of attendees. Here are some of the systems in place:
 
-* Only registered attendees can send questions and interact with other attendees within the hub. All activity is tied to a single user identity. If there are any verified breaches of the Code of Conduct, the user will not be allowed to access or participate in the conference. For more information, please review the [community guidelines](https://facct21guide.github.io/community.html) and [Policy Against Harassment](https://facct21guide.github.io/conduct.html).
-* Chosen organisers will be scanning submitted questions and discussion boards for any content that is considered inappropriate, and will be available during the sessions to address issues when they arise.
-* Only vetted and required attendees will have participant access to Zoom. All other attendees will be able to access the session via the livestream stages.
+* Only registered attendees can send questions and interact with other attendees within Hopin. All activity is tied to a single user identity. If there are any verified breaches of the Code of Conduct, the user will not be allowed to access or participate in the conference. For more information, please review the [community guidelines](https://facct22guide.github.io/community.html) and [Policy Against Harassment](https://facct22guide.github.io/conduct.html).
+* Chosen organizers will be scanning submitted questions and discussion boards for any content that is considered inappropriate, and will be available during the sessions to address issues when they arise.
 * Only approved questions will be shown to attendees during live Q&A sessions.
-* Moderators and Zoom hosts will be encouraged to mute or remove participants who do not abide by the agreed guidelines.
 
 ## Diversity, Equity and Inclusion Initiative
 
-For current information regarding FAccT 2021 Diversity, Equity and Inclusion please visit the [DEI webpage](https://facctconference.org/2021/inclusion.html).
+For current information regarding FAccT 2022 Diversity, Equity and Inclusion please visit the [DEI webpage](https://facctconference.org/2022/inclusion.html).
 
 ## Getting Support Navigating FAccT
 
@@ -135,5 +130,5 @@ If you have any questions about:
 * Registration, please email facctregistration@executivevents.com.
 
 For live technical support, please contact the organisers here:
-* Toll-Free 1-888-526-1242 / International +1 303-530-4683
-* On the hub, we have a dedicated ChatBox for getting technical support. This will be staffed throughout the duration of the event by members of the FAccT Planning Team.
+<!-- We will check whether Hopin has such feature -->
+* On Hopin, we have a dedicated ChatBox for getting technical support. This will be staffed throughout the duration of the event by members of the FAccT Planning Team.
