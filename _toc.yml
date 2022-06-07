@@ -6,11 +6,6 @@ parts:
   - file: background
   - file: access
   - file: infrastructure
-- caption: Community and Safety
-  chapters:
-  - file: community
-  - file: conduct
-  - file: wellbeing
 - caption: Details by Role
   chapters:
   - file: sessionchairs
