@@ -15,4 +15,4 @@ You can chat with other attendees under the "Chat" menu at the right sidebar.
 ![Hopin screenshot](img/hopin_booth.png)
 You can see a booth for each paper under the "Expo" menu at the left sidebar. You can submit your questions under the "Q&A" menu at each booth. 
 
-You can check the [access](/access22.md) document to see more functions.
+You can check the [access](/access.md) document to see more functions.
