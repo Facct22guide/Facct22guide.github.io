@@ -4,9 +4,8 @@ parts:
 - caption: Hitchhiker's Guide to FAccT 2022
   chapters:
   - file: background
-  - file: prepare
-  - file: access22
-  - file: infrastructure22
+  - file: access
+  - file: infrastructure
 - caption: Community and Safety
   chapters:
   - file: community
@@ -14,10 +13,5 @@ parts:
   - file: wellbeing
 - caption: Details by Role
   chapters:
-  - file: authors
-  - file: dc
-  - file: sessionchairs22
-  - file: volunteers
-- caption: FAQ
-  chapters:
-  - file: FAQ
+  - file: sessionchairs
+
