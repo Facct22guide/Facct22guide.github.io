@@ -9,4 +9,5 @@ parts:
 - caption: Details by Role
   chapters:
   - file: sessionchairs
+  - file: volunteers
 
